@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6b8a55ddd2a9898428d1ba819dfc9af9
+timeCreated: 1531685741
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Potra
+  fontNames:
+  - Potra
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
